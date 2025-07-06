@@ -1,0 +1,54 @@
+@media only screen and (min-width:360px) and (max-width:640px)
+    
+{  
+    
+    .logoimg{
+    padding: 5px;
+    width:80px;
+}
+.navbar li{
+    padding: 10px;
+   
+}
+.navbar{
+     top: 50px;
+}
+.main h1{
+    font-size: 60px;
+    
+
+}
+.bharat{
+    top: 70%;
+}
+.main h3{
+    font-size:15px ;
+    letter-spacing: 5px;
+}
+.main p{
+   
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+.btns{
+    padding: 20px;
+    
+}
+.contact-container {
+  background: url('https://source.unsplash.com/1600x900/?nature,water') no-repeat center center/cover;
+  height: autos;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   font-family: Arial, sans-serif;
+
+}
+.imagecontact{
+  
+    height: 768px;
+    object-fit:cover;
+    
+}
+
+}
